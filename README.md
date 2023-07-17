@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-#### My primary project can be found at [demo.resider.com](https://demo.resider.com/)
+An old (slower) project: [demo.resider.com](https://demo.resider.com/)
 
-It implements the following techniques:
+It implements:
 - `Statically generated` property pages
 - Millisecond fetching in `edge API routes`
 - `Code-splitting`
