@@ -17,4 +17,4 @@ It implements:
 - A robust seed script that generates low-quality-placeholder-images
 - To test: try opening a property page, clicking 'schedule tour' at the bottom, and scheduling a fake tour!
 
-#### For more, see my blog at [mcgreal.dev](https://mcgreal.dev/)
+#### For more, see my blog at [mcgrealife.vercel.app]([url](https://mcgrealife.vercel.app/)https://mcgrealife.vercel.app/)
